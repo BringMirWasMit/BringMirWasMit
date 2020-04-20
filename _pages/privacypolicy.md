@@ -1,3 +1,12 @@
+---
+layout: page
+title: Datenschutzerklärung
+include_in_header: true
+---
+
+**Last updated**  
+August 1 2019
+
 Datenschutz-Richtlinie
 ======================
 
