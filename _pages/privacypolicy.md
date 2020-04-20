@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+April 19 2020
 
 Datenschutz-Richtlinie
 ======================
